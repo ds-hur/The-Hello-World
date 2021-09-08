@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.javalec.base.Exam_04&apos; to &apos;Exam_20210907&apos;&#x0A;- Original project: &apos;Array&apos;&#x0A;- Original element: &apos;com.javalec.base.Exam_04&apos;&#x0A;- Renamed element: &apos;com.javalec.base.Exam_20210907&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Exam_04&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.javalec.base{Exam_04.java[Exam_04" matchStrategy="1" name="Exam_20210907" qualified="false" references="true" similarDeclarations="false" stamp="1630990660051" textual="false" version="1.0"/>
+</session>

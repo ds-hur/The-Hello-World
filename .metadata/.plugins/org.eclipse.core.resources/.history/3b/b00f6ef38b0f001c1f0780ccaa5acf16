@@ -1,0 +1,18 @@
+package com.javalec.base;
+
+import java.util.Calendar;
+
+public class Calender_01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Calendar calendar = Calendar.getInstance(); // ** new 안적음 주의 **
+		
+		int year = calendar.get(Calendar.YEAR);
+		int month = calendar.get(Calendar.MONTH + 1);
+		
+		System.out.println(year + "-" + month);
+
+	}
+
+}

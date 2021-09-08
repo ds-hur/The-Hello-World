@@ -1,0 +1,8 @@
+package com.javalec.function;
+
+public class Gugudan {
+	// 컨트롤러 부분
+	
+		// Field or Property (전역변수 쓸 게 있을때 사용함)
+
+}

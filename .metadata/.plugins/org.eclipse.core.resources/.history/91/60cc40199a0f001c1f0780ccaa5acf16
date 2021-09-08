@@ -1,0 +1,15 @@
+package com.javalec.base;
+
+import java.util.Random;
+
+public class Random_01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Random random = new Random();
+		int i = random.nextInt(11);
+		System.out.println(i);
+
+	}
+
+}

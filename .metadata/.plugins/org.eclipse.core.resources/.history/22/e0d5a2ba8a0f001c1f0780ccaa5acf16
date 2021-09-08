@@ -1,0 +1,15 @@
+package com.javalec.base;
+
+public class StringBuilder_01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		StringBuilder stringBuilder = new StringBuilder("abcdefg"); // 객체지향언어
+		
+		System.out.println(stringBuilder);
+		stringBuilder.append("hijklm"); System.out.println(stringBuilder);
+
+	}
+
+}

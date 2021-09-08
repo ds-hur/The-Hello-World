@@ -1,0 +1,13 @@
+package com.javalec.base;
+
+public class String_01 {
+
+	public static void main(String[] args) {
+		// 객체는 대문자로 쓴다.
+//		String str1 = new String(); // 원래는 이렇게 써줘야 함
+		String str1 = "abcdefg" ;
+		System.out.println(str1.toUpperCase());
+
+	}
+
+}

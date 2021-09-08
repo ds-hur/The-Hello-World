@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.javalec.base.While"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="SumEvenOdd"/>
+    <fullyQualifiedTypeName name="com.javalec.base.SumEven.SumEvenOdd"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="com.javalec.function.SumEvenOdd"/>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="jdk.jfr.internal.PrivateAccess"/>
+    <fullyQualifiedTypeName name="com.javalec.function.Gugudan"/>
+    <fullyQualifiedTypeName name="com.javalec.func.Gugudan"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.javalec.func.Gugugudan"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.javalec.func.Calc"/>
+</qualifiedTypeNameHistroy>

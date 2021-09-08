@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.javalec.function.GUGUDAN&apos; to &apos;Gugudan&apos;&#x0A;- Original project: &apos;OOP&apos;&#x0A;- Original element: &apos;com.javalec.function.GUGUDAN&apos;&#x0A;- Renamed element: &apos;com.javalec.function.Gugudan&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GUGUDAN&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.javalec.function{GUGUDAN.java[GUGUDAN" matchStrategy="1" name="Gugudan" qualified="false" references="true" similarDeclarations="false" stamp="1631067787089" textual="false" version="1.0"/>
+</session>

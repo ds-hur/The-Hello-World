@@ -1,0 +1,21 @@
+package com.javalec.func;
+
+public class Gugudan {
+
+	
+	// Field
+	
+	// Constructor
+	
+	public Gugudan() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	// Method
+	
+	public void calc(int dan) {
+		for(int i = 1; i >= 9; i++) {
+			System.out.println(dan + " X " + i + " = " + (dan*i));
+		}
+	}
+} //

@@ -1,0 +1,22 @@
+package com.javalec.function;
+
+public class SumEvenOdd {
+	
+	// Field or Property
+	
+	// Constructor(생성자 만들어야됨)
+	
+	public SumEvenOdd() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	// Method
+	public int sumCalc(int i, int j) {
+		int sum = 0;
+		for(int x = i; x <= j; x++) {
+			sum += x;
+		}
+		return sum;
+	}
+
+} //

@@ -1,0 +1,18 @@
+package com.javalec.base;
+
+public class String_01 {
+
+	public static void main(String[] args) {
+		// 객체는 대문자로 쓴다.
+//		String str1 = new String(); // 원래는 이렇게 써줘야 함
+		String str1 = "abcdefg" ;
+		String str2 = "hijklmn" ;
+		String str3 = "opqrstu" ;
+		System.out.println(str1.toUpperCase()); // 대문자로 바꿔주는 메소드 사용
+		System.out.println(str1.concat(str2)); // 두 문자들을 합쳐준다
+		System.out.println(str1.substring(3)); // 부분문자열, 012'3'부터 끝까지 프린트
+		System.out.println(str1.substring(3, 5));
+
+	}
+
+}

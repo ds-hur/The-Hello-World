@@ -1,0 +1,40 @@
+package com.javalec.function;
+
+public class SumEvenOdd {
+	// 컨트롤러 부분
+	
+	// Field or Property (전역변수 쓸 게 있을때 사용함)
+	int count = 0;
+	
+	// Constructor(생성자 꼭 만들어야됨 ************)
+	
+	public SumEvenOdd() {
+		// 구조화된 프로그래밍
+	}
+	
+	// Method 지역변수 안에서 정의함
+	public int sumCalc(int i, int j) {
+		int sum = 0;
+		for(int x = i; x <= j; x++) {
+			sum += x;
+		}
+		return sum;
+	}
+	
+	public String evenOdd(int i) {
+		String result;
+		int j = i % 2 ;
+		if (j==0) {
+			result = "짝수";
+		}else {
+			result = "홀수";
+		}
+		return result;
+		
+		
+		
+		
+		
+	}
+
+} //

@@ -1,0 +1,20 @@
+package com.javalec.func;
+
+public class Gugugudan {
+
+	// Field
+	
+	// Constructor
+	
+	public Gugugudan() {
+		
+	}
+	
+	// Method
+	
+	public void guguCalc() {
+		
+	}
+	
+	
+}
